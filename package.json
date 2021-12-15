@@ -1,0 +1,26 @@
+{
+  "name": "node-commander-cli",
+  "version": "1.0.0",
+  "description": "命令工具开发",
+  "main": "index.js",
+  "bin": {
+    "mHello": "bin/index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mRuoQue/node-commander-cli.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mRuoQue/node-commander-cli/issues"
+  },
+  "homepage": "https://github.com/mRuoQue/node-commander-cli#readme",
+  "dependencies": {
+    "commander": "^8.3.0"
+  }
+}
